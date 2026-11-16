@@ -1,6 +1,6 @@
 # Plan Review — Castar Conversion Indexer
 
-**Role:** Founding Payments Engineer · **Format:** plan review, verbal · **Time:** 60 min
+**Role:** Founding Engineer · **Format:** plan review, verbal · **Time:** 60 min
 
 ## Context
 
