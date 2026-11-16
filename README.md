@@ -26,9 +26,9 @@ carefully, and to check it against the codebase.
 
 ## Your task
 
-1. **Read the codebase.** Take about 10 minutes, starting with its README. It's
+1. **Skim the codebase.** Start with its README. It's
    small on purpose.
-2. **Read the request and the plan.** Take about 20 minutes. Think out loud if you
+2. **Read the request and the plan.** Think out loud if you
    like.
 3. **Find the problems.** Anything that would lose or misdirect money, leave a
    conversion stuck, hide a failure, or not do what the request asked.
